@@ -1,4 +1,4 @@
-# King-piece
+# README
 King piece script (2021) 
 
 Quick disclaimer
