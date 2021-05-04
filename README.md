@@ -1,5 +1,5 @@
 # README
-King piece script (2021) 
+King piece autofarm script (2021) 
 
 Quick disclaimer
 
